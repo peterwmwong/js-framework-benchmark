@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "syntax-jsx",
+    "xvdom"
+  ],
+  "presets": [
+    ["es2015", { "loose": true }]
+  ]
+}
